@@ -1,7 +1,7 @@
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const os = require('os');
 const qrcode = require('qrcode-terminal');
-const sessionIds = ['84828337623','2767257692'];
+const sessionIds = ['12294435781'];
 const clients = {};
 
 console.log("🔄 Initializing WhatsApp sessions...");
